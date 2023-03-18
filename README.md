@@ -1,2 +1,31 @@
 # AWS-DEV-Study-Project
 Notes for AWS DEV course
+
+### Topics:
+1) **IAM & AWS CLI** []
+2) **EC2 Fundamentals** []
+3) **EC2 Instance Storage** []
+4) **Fundamentals ELB & ASG** []
+5) **Fundamentals Aurora & RDS & ElasticCache** []
+6) **Route 53** []
+7) **VPC Fundamentals** []
+8) **Fundamentals S3** []
+9) **CLI & CDK & IAM Roles & Policies** []
+10) **Advanced S3 & Athena** []
+11) **CloudFront** []
+12) **ECS, ECR & Fargate, Docker in AWS** []
+13) **Elastic Beanstalk** []
+14) **AWS CI/CD (CodeCommit, CodePipeline, CodeBuild, CodeDeploy)** []
+15) **Monitoring, Audit, CloudWatch, X-Ray, CloudTrail** []
+16) **SQS, SNS, Kinesis** []
+17) **Serverless, Lambda** []
+18) **Serverless, DynamoDB** []
+19) **Serverless, API Gateway** []
+20) **Serverless, SAM** []
+21) **CDK** []
+22) **Cognito, Cognito User Pools, Cognito Identity Pools, Cognito Sync** []
+23) **Serverless, Step Functions & AppSync** []
+24) **Advanced Identity** []
+25) **Security: KMS, Encryption, SDK, SSM Parameter Store, IAM & STS** []
+26) **AWS Other Services** []
+
