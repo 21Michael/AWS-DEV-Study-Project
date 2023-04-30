@@ -2,9 +2,9 @@
 Notes for AWS DEV course
 
 ### Topics:
-1) **IAM & AWS CLI** []
-2) **EC2 Fundamentals** []
-3) **EC2 Instance Storage (EBS, Local Instance Store, AMI, EFS)** []
+1) **IAM & AWS CLI** [x]
+2) **EC2 Fundamentals** [x]
+3) **EC2 Instance Storage (EBS, Local Instance Store, AMI, EFS)** [x]
 4) **Fundamentals ELB & ASG** []
 5) **Fundamentals Aurora & RDS & ElasticCache** []
 6) **Route 53** []
